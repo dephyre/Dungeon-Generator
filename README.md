@@ -31,24 +31,24 @@ cd dungeon
 ### Basic Usage
 
 ```bash
-python3 test.py [width] [height]
+python3 dungeon_generator.py [width] [height]
 ```
 
 ### Examples
 
 Generate a standard 30x15 dungeon:
 ```bash
-python3 test.py 30 15
+python3 dungeon_generator.py 30 15
 ```
 
 Generate output and save to file:
 ```bash
-python3 test.py 30 15 > dungeon.txt
+python3 dungeon_generator.py 30 15 > dungeon.txt
 ```
 
 Generate a larger dungeon:
 ```bash
-python3 test.py 50 25
+python3 dungeon_generator.py 50 25
 ```
 
 ### Programmatic Usage
@@ -105,7 +105,7 @@ All rooms are guaranteed to be reachable from the entrance because:
 ### Command Line Arguments
 
 ```
-python3 test.py [width] [height]
+python3 dungeon_generator.py [width] [height]
 ```
 
 | Argument | Type | Default | Description |
