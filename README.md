@@ -1,17 +1,3 @@
-
-I should create a comprehensive README with:
-1. Project title and description
-2. Features
-3. Installation/Setup
-4. Usage instructions
-5. Character legend
-6. Algorithm explanation
-7. Configuration options
-8. License
-
-Let me write a good README for this procedural dungeon generator.
-</think>
-
 ```markdown
 # Procedural Dungeon Map Generator
 
