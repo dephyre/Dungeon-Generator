@@ -1,6 +1,6 @@
+![Dungon Icon](covers.png)
 ```markdown
 # Procedural Dungeon Map Generator
-![Dungon Icon](covers.png)
 A Python script for generating text-based dungeon maps for roguelike games. Uses procedural generation to create unique, random dungeons every time you play.
 
 ## Features
